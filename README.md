@@ -10,6 +10,8 @@
 - If you want to join my lab, please [apply](https://apply.rpi.edu/apply/) to our Ph.D. program at MANE.
 - For the latest list of my publications :page_with_curl:, please [check out here](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pswpswpsw)](https://github.com/pswpswpsw/github-readme-stats)
+
 <!--
 **pswpswpsw/pswpswpsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
