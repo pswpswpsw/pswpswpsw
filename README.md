@@ -3,8 +3,8 @@
 - I am an Assistant Professor at the [Department of Mechanical, Aerospace, and Nuclear Engineering](https://mane.rpi.edu/) at [Rensselaer Polytechni Insitutute](https://www.rpi.edu/).
   - I am also an affilated faculty with [Rensselaer-IBM Artificial Intelligence Research Collaboration](https://airc.rpi.edu/people/faculty)
 - I lead a research group at RPI and solve problems in **energy** :earth_americas: and **defense** :airplane: working on
-  - scientific machine learning, 
-  - data-driven reduced-order modeling and control of nonlinear systems, 
+  - scientific machine learning,
+  - data-driven sensing, modeling and control of nonlinear systems, 
   - scientific foundation models for computational science.
 - I am always looking for collaboration on AI4Science! 
 - If you want to join my lab, please [apply](https://apply.rpi.edu/apply/) to our Ph.D. program at MANE.
