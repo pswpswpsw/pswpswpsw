@@ -8,7 +8,7 @@
   - scientific foundation models for computational science. 
 - I am always looking for collaboration on AI4Science
 - If you want to join my lab, please [apply](https://apply.rpi.edu/apply/) to our Ph.D. program at MANE.
-- For the latest list of my publications, please [check out](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en)
+- For the latest list of my publications :page_with_curl:, please [check out](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en)
 
 <!--
 **pswpswpsw/pswpswpsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
