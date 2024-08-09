@@ -5,8 +5,8 @@
 - I lead a research group and solve problems in **energy** :earth_americas: and **defense** :airplane: working on
   - scientific machine learning, 
   - data-driven reduced-order modeling and control of nonlinear systems, 
-  - scientific foundation models for computational science. 
-- I am always looking for collaboration on AI4Science
+  - scientific foundation models for computational science.
+- I am always looking for collaboration on AI4Science! 
 - If you want to join my lab, please [apply](https://apply.rpi.edu/apply/) to our Ph.D. program at MANE.
 - For the latest list of my publications :page_with_curl:, please [check out here](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en)
 
