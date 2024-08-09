@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Shaowu!
 
 - I am an Assistant Professor at the [Department of Mechanical, Aerospace, and Nuclear Engineering](https://mane.rpi.edu/) at [Rensselaer Polytechni Insitutute](https://www.rpi.edu/).
-  - I am also affilated with The Rensselaer-IBM Artificial Intelligence Research Collaboration [AIRC](https://airc.rpi.edu/people/faculty)
+  - I am also an affilated faculty with [Rensselaer-IBM Artificial Intelligence Research Collaboration](https://airc.rpi.edu/people/faculty)
 - I lead a research group and solve problems in **energy** :earth_americas: and **defense** :airplane: working on
   - scientific machine learning for large-scale nonlinear dynamical systems,
   - operator-theoretic modeling and control of fluid flows, 
