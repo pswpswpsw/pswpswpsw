@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://faculty.rpi.edu/sites/default/files/2022-09/WeChat%20Image_20220914114417-min.jpg" width="180" style="border-radius:50%" />
-</p>
-
 <h2 align="center">Dr. Shaowu Pan</h2>
 
 <p align="center">
