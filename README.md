@@ -22,7 +22,7 @@ I am an Assistant Professor in the <a href="https://mane.rpi.edu/">Department of
 
 I lead the <strong>Computational Scientific Machine Learning (CSML) Lab</strong> at RPI. My work sits at the intersection of <strong>fluid mechanics</strong>, <strong>nonlinear dynamical systems</strong>, <strong>scientific machine learning</strong>, and <strong>agentic AI for computational science</strong>.
 
-Broadly, my research has evolved from <strong>computational fluid dynamics and turbulence modeling</strong>, to <strong>data-driven modeling of nonlinear systems</strong>, to <strong>physics-informed learning and operator learning</strong>, and more recently to <strong>scientific foundation models</strong> and <strong>AI agents for scientific computing</strong>. Across these directions, my goal is to develop learning-based methods that are physically grounded, computationally reliable, and useful for real scientific and engineering workflows.
+Broadly, my research has evolved from <strong>computational fluid dynamics and turbulence modeling</strong>, to <strong>data-driven modeling of nonlinear systems</strong>, to <strong>physics-informed learning and operator learning</strong>, and more recently to <strong>scientific foundation models</strong> and <strong>AI agents for scientific computing</strong>. Across these directions, my goal is to develop **computational scientific machine learning models** that are physically grounded, computationally reliable, and useful for real scientific and engineering workflows.
 
 ## Research Areas
 
