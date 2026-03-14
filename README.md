@@ -1,19 +1,3 @@
-<h2 align="center">Dr. Shaowu Pan</h2>
-
-<p align="center">
-Assistant Professor of Aerospace Engineering<br>
-<a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a>
-</p>
-
-<p align="center">
-  <a href="https://www.shaowupan.com">Website</a> •
-  <a href="https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en">Google Scholar</a> •
-  <a href="https://github.com/csml-rpi">CSML Lab</a> •
-  <a href="https://mane.rpi.edu/">RPI MANE</a>
-</p>
-
----
-
 I am an Assistant Professor in the <a href="https://mane.rpi.edu/">Department of Mechanical, Aerospace, and Nuclear Engineering</a> at <a href="https://www.rpi.edu/">Rensselaer Polytechnic Institute</a>, and an affiliated faculty member of the <a href="https://airc.rpi.edu/people/faculty">Rensselaer-IBM Artificial Intelligence Research Collaboration</a>.
 
 I lead the <strong>Computational Scientific Machine Learning (CSML) Lab</strong> at RPI. My work sits at the intersection of <strong>fluid mechanics</strong>, <strong>nonlinear dynamical systems</strong>, <strong>scientific machine learning</strong>, and <strong>agentic AI for computational science</strong>.
